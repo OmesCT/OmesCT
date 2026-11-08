@@ -1,86 +1,85 @@
 <div align="center">
 
-  <!-- ⚡ Glitched Error Banner for OmesCT -->
-  <img src="assets/banner.png" width="420" alt="ERROR Glitched Header" />
+  <!-- ⚡ Custom 3D Glitched ERROR Emblem -->
+  <a href="https://github.com/OmesCT">
+    <img src="assets/banner.png" width="310" alt="ERROR // SYSTEM ANOMALY" />
+  </a>
+
+  <!-- Terminal Typing Animation -->
+  <br/>
+  <a href="https://github.com/OmesCT">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=IDENTITY%3A+OmesCT+%2F%2F+%5BCODEBREAKER%5D;STATUS%3A+SYSTEM_ANOMALY_DETECTED;MISSION%3A+BUILDING+RESILIENT+SYSTEMS;while(alive)+%7B+code()%3B+ship()%3B+%7D" alt="Typing SVG" />
+  </a>
   <br/>
 
-  <!-- Cyber Glitch Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="25px" />
-
-  <!-- 🟢 Terminal Typing SVG -->
-  <a href="https://github.com/OmesCT">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=%3E_++WELCOME+TO+OmesCT'S+MAINFRAME;%5BERR_404%5D%3A+LIMITATIONS+NOT+FOUND...;%3E_++EXECUTING+CORE_LOOP%3A+while(alive)+%7B+code()%3B+%7D;STATUS%3A+ANOMALY_DETECTED+%E2%9A%A0%EF%B8%8F" alt="Typing SVG" />
-  </a>
+  <!-- Access Counter -->
+  <img src="https://komarev.com/ghpvc/?username=OmesCT&label=SYSTEM_ACCESS_COUNT&color=000000&style=flat-square" alt="Access Count" />
 
 </div>
 
-```bash
-$ ./query_user_matrix.sh --identity OmesCT
-[+] IDENTIFIER:     OmesCT (Omeeeeez)
-[+] CLASSIFICATION: FULL-STACK ENGINEER // SYSTEM EXPLOITER
-[+] SPECIALTIES:    TypeScript, PHP, Python, C#, Node.js
-[+] STATUS:         ONLINE // SYSTEM ANOMALY DETECTED ☣️
-[+] REPOSITORIES:   40+ ACTIVE REPOSITORIES ON GITHUB
+```text
+┌──[ root@OmesCT-Mainframe ]─[~]
+└──$ cat /etc/sys-profile
+    ├── User       : OmesCT (Omeeeeez)
+    ├── Role       : Full-Stack Engineer & Automation Architect
+    ├── Stack      : TypeScript • JavaScript • PHP • Python • C#
+    ├── Systems    : Agent Hubs • Verification Bots • Neural AI • Web
+    └── Core_Loop  : while (alive) { code(); deploy(); break_limits(); }
 ```
 
 ---
 
-### ☣️ // ARSENAL & TECH STACK
+### ☣️ // ARSENAL & TECH MATRIX
 
 <p align="center">
-  <!-- Core Languages based on actual GitHub repos -->
-  <img src="https://img.shields.io/badge/TYPESCRIPT-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=050505" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-%2300ffcc.svg?style=for-the-badge&logo=python&logoColor=050505" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <!-- Core Languages (Stealth Black) -->
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=239120" />
   <br/>
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/NODE.JS-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/GIT-%23ff0055.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOCKER-%23002b2b.svg?style=for-the-badge&logo=docker&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/LINUX-%23050505.svg?style=for-the-badge&logo=linux&logoColor=00ffcc" />
+  <!-- Frameworks & Infrastructure -->
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
 ---
 
-### 📂 // FEATURED PROJECT CODES
+### 📂 // DEPLOYED REPOSITORIES
 
-```bash
-$ ls -la /projects/featured
-drwxr-xr-x  Agent-Hub-Private   [TypeScript :: Automation Core]
-drwxr-xr-x  Vertify-Bot-Slip    [TypeScript :: Verification Engine]
-drwxr-xr-x  AiJavisGPT          [Python :: AI Neural Assistant]
-drwxr-xr-x  reserrest-project   [PHP :: Full-Stack Architecture]
-drwxr-xr-x  ci-cd-test          [C# :: Automated Pipeline]
+```text
+├── [ TypeScript ]  OmesCT / Agent-Hub-Private    :: Orchestration & Automation Core
+├── [ TypeScript ]  OmesCT / Vertify-Bot-Slip     :: Slip Verification & Payment Bot
+├── [ Python ]      OmesCT / AiJavisGPT           :: AI Neural Engine & Intelligent Assistant
+└── [ PHP / Web ]   OmesCT / reserrest-project    :: Reservation & Dynamic Store Architecture
 ```
 
 ---
 
-### 📊 // OmesCT TELEMETRY (GITHUB STATS)
+### 📊 // SYSTEM TELEMETRY (GITHUB METRICS)
 
 <div align="center">
-  <!-- Neon Glitch Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=OmesCT&show_icons=true&theme=tokyonight&bg_color=050505&title_color=00ffcc&text_color=00e5ff&icon_color=ff007f&border_color=00ffcc&hide_border=false" width="48%" />
+  <!-- Minimalist Stealth Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmesCT&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ff3366&border_color=222222" width="48%" />
   
-  <!-- Neon Glitch Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmesCT&layout=compact&theme=tokyonight&bg_color=050505&title_color=00ffcc&text_color=00e5ff&border_color=ff007f&hide_border=false" width="48%" />
+  <!-- Minimalist Stealth Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmesCT&layout=compact&bg_color=00000000&title_color=ffffff&text_color=888888&border_color=222222" width="48%" />
 </div>
 
 <div align="center" style="margin-top: 12px;">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmesCT&theme=tokyonight&background=050505&border=ff007f&stroke=00ffcc&ring=ff007f&fire=00ffcc&currStreakLabel=00ffcc&sideNums=00e5ff&sideLabels=00ffcc" width="97%" />
+  <!-- Streak Telemetry -->
+  <img src="https://streak-stats.demolab.com/?user=OmesCT&theme=dark&background=00000000&border=222222&stroke=ffffff&ring=ff3366&fire=ff3366&currStreakLabel=ffffff" width="97%" />
 </div>
 
 ---
 
-### 📡 // ESTABLISH SECURE UPLINK
+### 📡 // SECURE UPLINK
 
 <p align="center">
-  <a href="https://github.com/OmesCT"><img src="https://img.shields.io/badge/GITHUB-OmesCT-%2300ffcc.svg?style=for-the-badge&logo=github&logoColor=050505" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/SECURE_EMAIL-%23ff007f.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/OmesCT"><img src="https://img.shields.io/badge/GitHub-OmesCT-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Encrypted_Mail-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<!-- Glitched Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:002b2b,100:ff007f&height=80&section=footer" width="100%"/>
