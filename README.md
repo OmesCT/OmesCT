@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- ⚡ Custom 3D Glitched ERROR Emblem -->
+  <!-- ⚡ Cyberpunk Ultra-Wide Header for OmesCT -->
   <a href="https://github.com/OmesCT">
-    <img src="assets/banner.png" width="310" alt="ERROR // SYSTEM ANOMALY" />
+    <img src="assets/banner.jpg" width="100%" alt="OmesCT // SYSTEM_OVERRIDE" />
   </a>
 
   <!-- Terminal Typing Animation -->
