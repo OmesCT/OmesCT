@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- ⚡ Animated Cyberpunk Header for OmesCT -->
+  <!-- ⚡ Custom Glitched ERROR Animation (Self-Hosted) -->
   <a href="https://github.com/OmesCT">
-    <img src="assets/banner.gif" width="100%" alt="OmesCT Cyberpunk Animated Header" />
+    <img src="assets/glitch_error_v1.gif" width="100%" alt="OmesCT Glitched ERROR Header" />
   </a>
 
   <!-- Terminal Typing Animation -->
