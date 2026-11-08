@@ -1,7 +1,8 @@
 <div align="center">
 
-  <!-- ⚡ Glitched Cyber Banner for OmesCT -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,40:0f051d,100:002b2b&height=200&section=header&text=%5B%20OmesCT%20%3A%3A%20SYSTEM_OVERRIDE%20%5D&fontSize=34&fontAlignY=42&desc=%3E_%20ACCESS%20GRANTED%20%7C%20INITIALIZING%20NEURAL_CORE...&descSize=15&descAlignY=68&fontColor=00ffcc&stroke=ff007f&strokeWidth=2" width="100%"/>
+  <!-- ⚡ Glitched Error Banner for OmesCT -->
+  <img src="assets/banner.png" width="420" alt="ERROR Glitched Header" />
+  <br/>
 
   <!-- Cyber Glitch Divider -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="25px" />
