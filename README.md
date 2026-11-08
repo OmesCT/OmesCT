@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- ⚡ Cyberpunk Ultra-Wide Header for OmesCT -->
+  <!-- ⚡ Animated Cyberpunk Header for OmesCT -->
   <a href="https://github.com/OmesCT">
-    <img src="assets/banner.jpg" width="100%" alt="OmesCT // SYSTEM_OVERRIDE" />
+    <img src="assets/banner.gif" width="100%" alt="OmesCT Cyberpunk Animated Header" />
   </a>
 
   <!-- Terminal Typing Animation -->
