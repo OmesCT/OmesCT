@@ -49,14 +49,46 @@
 
 ---
 
-### 📂 // DEPLOYED REPOSITORIES
+### 📂 // PROJECT CATALOG & DEPLOYED ARCHITECTURES
 
-```text
-├── [ TypeScript ]  OmesCT / Agent-Hub-Private    :: Orchestration & Automation Core
-├── [ TypeScript ]  OmesCT / Vertify-Bot-Slip     :: Slip Verification & Payment Bot
-├── [ Python ]      OmesCT / AiJavisGPT           :: AI Neural Engine & Intelligent Assistant
-└── [ PHP / Web ]   OmesCT / reserrest-project    :: Reservation & Dynamic Store Architecture
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI, Bots & Autonomous Hubs</h4>
+      <ul>
+        <li><a href="https://github.com/OmesCT/Agent-Hub-Private"><b>Agent-Hub-Private</b></a> <code>TypeScript</code><br/>Multi-agent orchestration & automation engine</li>
+        <li><a href="https://github.com/OmesCT/Vertify-Bot-Slip"><b>Vertify-Bot-Slip</b></a> <code>TypeScript</code><br/>Automated payment & slip verification engine</li>
+        <li><a href="https://github.com/OmesCT/AiJavisGPT"><b>AiJavisGPT</b></a> <code>Python</code><br/>Neural AI assistant & automated agent interface</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Platforms & Web Applications</h4>
+      <ul>
+        <li><a href="https://github.com/OmesCT/Monarch-X-Store"><b>Monarch-X-Store</b></a> <code>Python</code><br/>Modern storefront architecture & backend services</li>
+        <li><a href="https://github.com/OmesCT/reserrest-project"><b>reserrest-project</b></a> <code>PHP</code><br/>Dynamic restaurant booking & management suite</li>
+        <li><a href="https://github.com/OmesCT/ShabuBook"><b>ShabuBook</b></a> <code>JavaScript</code><br/>Interactive table reservation & order tracking</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ DevOps, Pipelines & Cloud</h4>
+      <ul>
+        <li><a href="https://github.com/OmesCT/ci-cd-test"><b>ci-cd-test</b></a> <code>C#</code><br/>Automated test pipelines & continuous delivery</li>
+        <li><a href="https://github.com/OmesCT/pipeline-study"><b>pipeline-study</b></a><br/>GitHub Actions workflow research & optimization</li>
+        <li><a href="https://github.com/OmesCT/dockercompose"><b>dockercompose</b></a> <code>TypeScript</code><br/>Multi-container environment orchestration</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛒 Systems & Management</h4>
+      <ul>
+        <li><a href="https://github.com/OmesCT/ShoppingCart"><b>ShoppingCart</b></a> <code>JavaScript</code><br/>E-commerce cart logic & checkout state</li>
+        <li><a href="https://github.com/OmesCT/employeeQuery"><b>employeeQuery</b></a> <code>JavaScript</code><br/>Staff data indexing & query handling</li>
+        <li><a href="https://github.com/OmesCT/VenvMaster"><b>VenvMaster</b></a> <code>Python</code><br/>Python isolated environment automation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
